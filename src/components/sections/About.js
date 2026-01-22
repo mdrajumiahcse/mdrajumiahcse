@@ -52,14 +52,14 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Freelance :</span>
-                    <span>Available</span>
+                    <span>Available for projects </span>
                   </span>
                 </span>
               </li>
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Langages :</span>
+                    <span> Languages :</span>
                     <span>Bangla, English & Arabic</span>
                   </span>
                 </span>
@@ -70,7 +70,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>Kurigram</span>
+                    <span>Kurigram, Bangladesh</span>
                   </span>
                 </span>
               </li>
@@ -94,7 +94,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Linkdin :</span>
-                    <span>mdrajumiahcse</span>
+                    <span><a href="https://www.linkedin.com/in/mdrajumiahcse/" target="_blank" >mdrajumiahcse</a></span>
                   </span>
                 </span>
               </li>
@@ -124,6 +124,42 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
+                <i className="devicon-html5-plain" />
+              </span>
+              <h4>HTML</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-up-animation fadeInRight wow">
+              <span>
+                <i className="devicon-css3-plain" />
+              </span>
+              <h4>CSS</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+          </div>
+          <div>
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+              <span>
+                <i className="devicon-javascript-plain" />
+              </span>
+              <h4>JavaScript</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-up-animation fadeInRight wow">
+              <span>
+                <i className="devicon-git-plain" />
+              </span>
+              <h4>Git</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+          </div>
+          <div>
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+              <span>
                 <i className="devicon-wordpress-plain" />
               </span>
               <h4>WordPress</h4>
@@ -142,25 +178,7 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-down-animation fadeInLeft wow">
               <span>
-                <i className="devicon-angularjs-plain" />
-              </span>
-              <h4>SquareSpace</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-drupal-plain" />
-              </span>
-              <h4>Figma</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-react-plain" />
+                <i className="fa-brands fa-elementor" />
               </span>
               <h4>Elementor</h4>
             </div>
@@ -168,27 +186,9 @@ const About = () => {
             {/* SKILL ITEM STARTS */}
             <div className="animated-layer fade-in-up-animation fadeInRight wow">
               <span>
-                <i className="devicon-docker-plain" />
-              </span>
-              <h4>Woocommerch</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-          </div>
-          <div>
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
-              <span>
-                <i className="devicon-nodejs-plain" />
+                <i className="fa-solid fa-bezier-curve" />
               </span>
               <h4>Graphic</h4>
-            </div>
-            {/* SKILL ITEM ENDS */}
-            {/* SKILL ITEM STARTS */}
-            <div className="animated-layer fade-in-up-animation fadeInRight wow">
-              <span>
-                <i className="devicon-sass-plain" />
-              </span>
-              <h4>Tech Bloger</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>
@@ -217,14 +217,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Student SSC</h4>
+                  <h4>Secondary Education</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
                     <span>2015 - 2020</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Kaligang H. A. Hight School</span>
+                    <span>Kaliganj H. A. High School</span>
                   </p>
                 </div>
               </div>
@@ -251,14 +251,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Web Developer</h4>
+                  <h4>Internship</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2026 - Now</span>
+                    <span>June,2024 - August, 2024</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>SM Technology, Betopia Group</span>
+                    <span>European IT</span>
                   </p>
                 </div>
               </div>
@@ -268,14 +268,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Master Degree</h4>
+                  <h4>Web Dev Course</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2003</span>
+                    <span>Ongoing</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>London University</span>
+                    <span>Programming Hero</span>
                   </p>
                 </div>
               </div>
@@ -285,14 +285,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="education">
-                  <h4>Bachelor Degree</h4>
+                  <h4>Current Job</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>1999</span>
+                    <span>2025- ongoing</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Berlin High School</span>
+                    <span>SM Technology, Betopia Group</span>
                   </p>
                 </div>
               </div>

@@ -1,10 +1,11 @@
 import Head from "next/head";
-const SalimovHead = () => {
+const RajuPHead = () => {
   return (
     <Head>
-      <title>Salimov - Horizontal Personal Portfolio</title>
+      <title>Md Raju Miah - Professional Web Developer | WordPress & Shopify Expert</title>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="icon" type="image/png" href="/assets/fav.png" />
       {/* Template Google Fonts */}
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
@@ -28,4 +29,4 @@ const SalimovHead = () => {
     </Head>
   );
 };
-export default SalimovHead;
+export default RajuPHead;

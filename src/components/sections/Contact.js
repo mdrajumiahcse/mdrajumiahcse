@@ -22,7 +22,7 @@ const Contact = () => {
             <i className="fa fa-phone" />
             <p>
               <span className="small-text">phone</span>
-              +216 21 184 010
+              <a href="tel:01619860990">01619860990</a>
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -31,7 +31,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              London, England
+              Kurigram, Bangladesh
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -42,7 +42,7 @@ const Contact = () => {
             <i className="fa fa-envelope" />
             <p>
               <span className="small-text">email</span>
-              contact@steven.net
+              <a href="mailto:mdrajumiahcse@gmail.com">mdrajumiahcse@gmail.com</a>
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}
@@ -52,25 +52,35 @@ const Contact = () => {
             <span className="small-text">follow me</span>
             <ul className="social">
               <li>
-                <a href="#">
-                  <i className="fa-brands fa-github" />
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i className="fa-brands fa-twitter" />
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i className="fa-brands fa-dribbble" />
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i className="fa-brands fa-facebook" />
-                </a>
-              </li>
+            <a href="https://github.com/mdrajumiahcse">
+              <i className="fa-brands fa-github" />
+            </a>
+          </li>
+          <li>
+            <a href="https://x.com/mdrajumiahcse">
+              <i className="fa-brands fa-twitter" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.linkedin.com/in/mdrajumiahcse/">
+              <i className="fa-brands fa-linkedin" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/mdrajumiahcse">
+              <i className="fa-brands fa-facebook" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/mdrajumiahcse">
+              <i className="fa-brands fa-instagram" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/@dependtechbd">
+              <i className="fa-brands fa-youtube" />
+            </a>
+          </li>
             </ul>
           </div>
           {/* CONTACT ITEM ENDS */}

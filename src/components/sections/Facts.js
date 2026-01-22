@@ -9,7 +9,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>13</h3>
+              <h3>2.5</h3>
               <p>
                 years of<span>experience</span>
               </p>
@@ -24,7 +24,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>67</h3>
+              <h3>65</h3>
               <p>
                 completed<span>projects</span>
               </p>
@@ -39,7 +39,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>56</h3>
+              <h3>38</h3>
               <p>
                 Happy<span>customers</span>
               </p>
@@ -54,7 +54,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>13</h3>
+              <h3>09</h3>
               <p>
                 awards<span>won</span>
               </p>
@@ -69,7 +69,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>32</h3>
+              <h3>20</h3>
               <p>
                 learned<span>frameworks</span>
               </p>
